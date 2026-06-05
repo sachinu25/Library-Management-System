@@ -1,10 +1,3 @@
-"""
-Demonstration and verification script for Library Management System.
-
-This script demonstrates all major features of the system and verifies
-that everything works correctly. Run this after installation to test
-the system.
-"""
 
 from datetime import datetime, timedelta
 from library import Library
