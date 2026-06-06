@@ -1,4 +1,4 @@
-# 🚀 QUICK START GUIDE
+
 
 ## Your Project is Ready! 
 
